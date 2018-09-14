@@ -1,3 +1,3 @@
-# black-friday
+# Kaggle Competition - Google Revenue
 
-https://www.kaggle.com/mehdidag/black-friday/home
+https://www.kaggle.com/c/google-analytics-customer-revenue-prediction
